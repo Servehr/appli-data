@@ -1,0 +1,64 @@
+{
+  "students": [
+      {
+          "id": 1,
+          "firtname": "Emeka",
+          "surname": "Agbor",
+          "state": "Abia"
+      },
+      {
+          "id": 2,
+          "firtname": "Friday",
+          "surname": "Kingsley",
+          "state": "Enugu"
+      },
+      {
+          "id": 3,
+          "firtname": "Kadiri",
+          "surname": "Uthman",
+          "state": "Kano"
+      }
+  ],
+  "users": [
+    {
+        "id": "servertstng@gmail.com",
+        "channelId": "coding"
+    }
+  ],
+  "channels": [        
+      {
+        "id": 1,
+        "label": "red"
+    }
+  ]
+  ,"colors": [
+    {
+        "id": 1,
+        "label": "blue"
+    },
+    {
+        "id": 2,
+        "label": "green"
+    },
+    {
+        "id": 3,
+        "label": "yellow"
+    },
+    {
+        "id": 4,
+        "label": "red"
+    },
+    {
+        "id": 5,
+        "label": "pink"
+    },
+    {
+        "id": 6,
+        "label": "indigo"
+    },
+    {
+        "id": 7,
+        "label": "black"
+    }
+]
+} 

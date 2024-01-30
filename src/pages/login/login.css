@@ -1,0 +1,19 @@
+/* @media (min-width: 1200px)
+{
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+        max-width: 1500px;
+    }
+} */
+.inputPadding {
+    padding: 30px;
+}
+.spanTextOne {
+    font-size: 24px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.borderRed {
+    border: 1px solid red;
+}
+.borderGreen {
+    border: 1px solid green;
+}
