@@ -62,6 +62,7 @@ export const Login = () => {
           <div class="col-6">    
               <div class="row login-logo">
                   <span class="col-12 text-left spanTextOne">Login</span>
+                  <h6>Kindly provide a valid email and passwor to be able to access the dashboard.</h6>
               </div>
               {/* <!-- /.login-logo --> */}
               <div class="card py-4 px-2">
