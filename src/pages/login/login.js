@@ -73,7 +73,7 @@ export const Login = () => {
 
                     <div class="row">
                       <div class="col-12">
-                        <button type="submit" onclick={goToDashBoard} class="btn btn-primary btn-block py-3" disabled={!enabled}>Sign In</button>
+                        <button type="submit" onClick={goToDashBoard} class="btn btn-primary btn-block py-3" disabled={!enabled}>Sign In</button>
                       </div>
                       {/* <!-- /.col --> */}
                     </div>
